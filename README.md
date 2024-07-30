@@ -10,4 +10,4 @@ In the past, I have done work with [BUAlpha](https://github.com/bualpha), a quan
 
 **Let's connect!**\
 Email: eliu23@bu.edu\
-LinkedIn: [in/evan-liu](https://www.linkedin.com/in/evan-liu-73086726a/)
+LinkedIn: [in/evan-liu](https://www.linkedin.com/in/evan-liu23)
