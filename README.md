@@ -4,7 +4,7 @@
 - Interested in machine learning applications in finance and signal processing
 - When I'm not coding or studying, I like to road bike, ski, and learn about Tolkien
 
-I am currently building a startup/project [TextMarley](https://github.com/jtsang21/textmarley) that simplifies deadlines for college students and serves an assistant for everyday tasks such as emails, meetings, homework, etc. This is build purely for text. I am also working on a [Trading Engine Server](https://github.com/evanl23/Trading-Engine) that hosts trading servers, creates orders, and matches orders for clients. 
+I am currently building a startup/project [TextMarley](https://github.com/jtsang27/textmarley) that simplifies deadlines for college students and serves an assistant for everyday tasks such as emails, meetings, homework, etc. This is build purely for text. I am also working on a [Trading Engine Server](https://github.com/evanl23/Trading-Engine) that hosts trading servers, creates orders, and matches orders for clients. 
 
 <!-- I am also starting a side quant project that finds arbitrage opportunities in dual-class securities. -->
 
