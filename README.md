@@ -11,5 +11,6 @@ I am currently building a startup/project [TextMarley](https://github.com/TextMa
 In the past, I have done work with [BUAlpha](https://github.com/bualpha), a quantitative finance research club at BU, where I implemented Monte Carlo methods and algorithmic trading strategies. 
 
 **Let's connect!**\
+Website: [evanpliu.com](https://www.evanpliu.com) 
 Email: eliu23@bu.edu\
 LinkedIn: [in/evan-liu](https://www.linkedin.com/in/evan-liu23)
