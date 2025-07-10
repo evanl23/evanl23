@@ -8,7 +8,7 @@ I am currently building an iPhone detachable [Raman](https://github.com/evanl23/
 
 In the past, I have done work with [BUAlpha](https://github.com/bualpha), a quantitative finance research club at BU, where I implemented Monte Carlo methods and algorithmic trading strategies.
 
-🎮 Check out [Terminal Dash](https://github.com/evanl23/terminal-dash)! A game I wrote in ASCII for the terminal following my favorite childhood game *Geometry Dash* created by RobTop. 
+✅ Check out [Terminal Dash](https://github.com/evanl23/terminal-dash)! A game I wrote in ASCII for the terminal following my favorite childhood game *Geometry Dash* created by RobTop. 
 
 **Let's connect!**\
 Website: [evanpliu.com](https://www.evanpliu.com)\
